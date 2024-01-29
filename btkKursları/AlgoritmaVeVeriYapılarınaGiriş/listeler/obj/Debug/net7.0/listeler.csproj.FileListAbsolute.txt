@@ -1,0 +1,14 @@
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\listeler\bin\Debug\net7.0\listeler.exe
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\listeler\bin\Debug\net7.0\listeler.deps.json
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\listeler\bin\Debug\net7.0\listeler.runtimeconfig.json
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\listeler\bin\Debug\net7.0\listeler.dll
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\listeler\bin\Debug\net7.0\listeler.pdb
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\listeler\obj\Debug\net7.0\listeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\listeler\obj\Debug\net7.0\listeler.AssemblyInfoInputs.cache
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\listeler\obj\Debug\net7.0\listeler.AssemblyInfo.cs
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\listeler\obj\Debug\net7.0\listeler.csproj.CoreCompileInputs.cache
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\listeler\obj\Debug\net7.0\listeler.dll
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\listeler\obj\Debug\net7.0\refint\listeler.dll
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\listeler\obj\Debug\net7.0\listeler.pdb
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\listeler\obj\Debug\net7.0\listeler.genruntimeconfig.cache
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\listeler\obj\Debug\net7.0\ref\listeler.dll

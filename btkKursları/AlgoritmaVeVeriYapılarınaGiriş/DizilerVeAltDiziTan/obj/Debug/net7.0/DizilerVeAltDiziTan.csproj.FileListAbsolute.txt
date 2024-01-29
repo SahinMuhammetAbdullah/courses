@@ -1,0 +1,14 @@
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\DizilerVeAltDiziTan\bin\Debug\net7.0\DizilerVeAltDiziTan.exe
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\DizilerVeAltDiziTan\bin\Debug\net7.0\DizilerVeAltDiziTan.deps.json
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\DizilerVeAltDiziTan\bin\Debug\net7.0\DizilerVeAltDiziTan.runtimeconfig.json
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\DizilerVeAltDiziTan\bin\Debug\net7.0\DizilerVeAltDiziTan.dll
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\DizilerVeAltDiziTan\bin\Debug\net7.0\DizilerVeAltDiziTan.pdb
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\DizilerVeAltDiziTan\obj\Debug\net7.0\DizilerVeAltDiziTan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\DizilerVeAltDiziTan\obj\Debug\net7.0\DizilerVeAltDiziTan.AssemblyInfoInputs.cache
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\DizilerVeAltDiziTan\obj\Debug\net7.0\DizilerVeAltDiziTan.AssemblyInfo.cs
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\DizilerVeAltDiziTan\obj\Debug\net7.0\DizilerVeAltDiziTan.csproj.CoreCompileInputs.cache
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\DizilerVeAltDiziTan\obj\Debug\net7.0\DizilerVeAltDiziTan.dll
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\DizilerVeAltDiziTan\obj\Debug\net7.0\refint\DizilerVeAltDiziTan.dll
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\DizilerVeAltDiziTan\obj\Debug\net7.0\DizilerVeAltDiziTan.pdb
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\DizilerVeAltDiziTan\obj\Debug\net7.0\DizilerVeAltDiziTan.genruntimeconfig.cache
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\DizilerVeAltDiziTan\obj\Debug\net7.0\ref\DizilerVeAltDiziTan.dll

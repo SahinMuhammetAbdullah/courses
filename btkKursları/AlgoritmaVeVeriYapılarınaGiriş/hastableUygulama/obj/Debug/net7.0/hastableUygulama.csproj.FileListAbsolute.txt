@@ -1,0 +1,14 @@
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\hastableUygulama\obj\Debug\net7.0\hastableUygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\hastableUygulama\obj\Debug\net7.0\hastableUygulama.AssemblyInfoInputs.cache
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\hastableUygulama\obj\Debug\net7.0\hastableUygulama.AssemblyInfo.cs
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\hastableUygulama\obj\Debug\net7.0\hastableUygulama.csproj.CoreCompileInputs.cache
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\hastableUygulama\bin\Debug\net7.0\hastableUygulama.exe
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\hastableUygulama\bin\Debug\net7.0\hastableUygulama.deps.json
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\hastableUygulama\bin\Debug\net7.0\hastableUygulama.runtimeconfig.json
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\hastableUygulama\bin\Debug\net7.0\hastableUygulama.dll
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\hastableUygulama\bin\Debug\net7.0\hastableUygulama.pdb
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\hastableUygulama\obj\Debug\net7.0\hastableUygulama.dll
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\hastableUygulama\obj\Debug\net7.0\refint\hastableUygulama.dll
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\hastableUygulama\obj\Debug\net7.0\hastableUygulama.pdb
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\hastableUygulama\obj\Debug\net7.0\hastableUygulama.genruntimeconfig.cache
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\hastableUygulama\obj\Debug\net7.0\ref\hastableUygulama.dll

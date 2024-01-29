@@ -1,0 +1,14 @@
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\Class\bin\Debug\net7.0\Class.exe
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\Class\bin\Debug\net7.0\Class.deps.json
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\Class\bin\Debug\net7.0\Class.runtimeconfig.json
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\Class\bin\Debug\net7.0\Class.dll
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\Class\bin\Debug\net7.0\Class.pdb
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\Class\obj\Debug\net7.0\Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\Class\obj\Debug\net7.0\Class.AssemblyInfoInputs.cache
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\Class\obj\Debug\net7.0\Class.AssemblyInfo.cs
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\Class\obj\Debug\net7.0\Class.csproj.CoreCompileInputs.cache
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\Class\obj\Debug\net7.0\Class.dll
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\Class\obj\Debug\net7.0\refint\Class.dll
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\Class\obj\Debug\net7.0\Class.pdb
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\Class\obj\Debug\net7.0\Class.genruntimeconfig.cache
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\Class\obj\Debug\net7.0\ref\Class.dll

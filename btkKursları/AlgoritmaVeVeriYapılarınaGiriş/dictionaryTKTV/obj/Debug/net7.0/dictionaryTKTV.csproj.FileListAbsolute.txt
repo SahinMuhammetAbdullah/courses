@@ -1,0 +1,14 @@
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\dictionaryTKTV\bin\Debug\net7.0\dictionaryTKTV.exe
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\dictionaryTKTV\bin\Debug\net7.0\dictionaryTKTV.deps.json
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\dictionaryTKTV\bin\Debug\net7.0\dictionaryTKTV.runtimeconfig.json
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\dictionaryTKTV\bin\Debug\net7.0\dictionaryTKTV.dll
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\dictionaryTKTV\bin\Debug\net7.0\dictionaryTKTV.pdb
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\dictionaryTKTV\obj\Debug\net7.0\dictionaryTKTV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\dictionaryTKTV\obj\Debug\net7.0\dictionaryTKTV.AssemblyInfoInputs.cache
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\dictionaryTKTV\obj\Debug\net7.0\dictionaryTKTV.AssemblyInfo.cs
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\dictionaryTKTV\obj\Debug\net7.0\dictionaryTKTV.csproj.CoreCompileInputs.cache
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\dictionaryTKTV\obj\Debug\net7.0\dictionaryTKTV.dll
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\dictionaryTKTV\obj\Debug\net7.0\refint\dictionaryTKTV.dll
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\dictionaryTKTV\obj\Debug\net7.0\dictionaryTKTV.pdb
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\dictionaryTKTV\obj\Debug\net7.0\dictionaryTKTV.genruntimeconfig.cache
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\dictionaryTKTV\obj\Debug\net7.0\ref\dictionaryTKTV.dll

@@ -1,0 +1,14 @@
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\arrayClassMethotlari\bin\Debug\net7.0\arrayClassMethotlari.exe
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\arrayClassMethotlari\bin\Debug\net7.0\arrayClassMethotlari.deps.json
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\arrayClassMethotlari\bin\Debug\net7.0\arrayClassMethotlari.runtimeconfig.json
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\arrayClassMethotlari\bin\Debug\net7.0\arrayClassMethotlari.dll
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\arrayClassMethotlari\bin\Debug\net7.0\arrayClassMethotlari.pdb
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\arrayClassMethotlari\obj\Debug\net7.0\arrayClassMethotlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\arrayClassMethotlari\obj\Debug\net7.0\arrayClassMethotlari.AssemblyInfoInputs.cache
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\arrayClassMethotlari\obj\Debug\net7.0\arrayClassMethotlari.AssemblyInfo.cs
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\arrayClassMethotlari\obj\Debug\net7.0\arrayClassMethotlari.csproj.CoreCompileInputs.cache
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\arrayClassMethotlari\obj\Debug\net7.0\arrayClassMethotlari.dll
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\arrayClassMethotlari\obj\Debug\net7.0\refint\arrayClassMethotlari.dll
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\arrayClassMethotlari\obj\Debug\net7.0\arrayClassMethotlari.pdb
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\arrayClassMethotlari\obj\Debug\net7.0\arrayClassMethotlari.genruntimeconfig.cache
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\arrayClassMethotlari\obj\Debug\net7.0\ref\arrayClassMethotlari.dll

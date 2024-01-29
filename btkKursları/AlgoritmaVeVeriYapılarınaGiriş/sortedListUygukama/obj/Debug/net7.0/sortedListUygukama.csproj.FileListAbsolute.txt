@@ -1,0 +1,14 @@
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\sortedListUygukama\bin\Debug\net7.0\sortedListUygukama.exe
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\sortedListUygukama\bin\Debug\net7.0\sortedListUygukama.deps.json
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\sortedListUygukama\bin\Debug\net7.0\sortedListUygukama.runtimeconfig.json
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\sortedListUygukama\bin\Debug\net7.0\sortedListUygukama.dll
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\sortedListUygukama\bin\Debug\net7.0\sortedListUygukama.pdb
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\sortedListUygukama\obj\Debug\net7.0\sortedListUygukama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\sortedListUygukama\obj\Debug\net7.0\sortedListUygukama.AssemblyInfoInputs.cache
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\sortedListUygukama\obj\Debug\net7.0\sortedListUygukama.AssemblyInfo.cs
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\sortedListUygukama\obj\Debug\net7.0\sortedListUygukama.csproj.CoreCompileInputs.cache
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\sortedListUygukama\obj\Debug\net7.0\sortedListUygukama.dll
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\sortedListUygukama\obj\Debug\net7.0\refint\sortedListUygukama.dll
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\sortedListUygukama\obj\Debug\net7.0\sortedListUygukama.pdb
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\sortedListUygukama\obj\Debug\net7.0\sortedListUygukama.genruntimeconfig.cache
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\sortedListUygukama\obj\Debug\net7.0\ref\sortedListUygukama.dll

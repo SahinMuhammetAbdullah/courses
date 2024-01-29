@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OZ6mPWR6KvoIZyRxjLX1bm/EZeQg06DiF0z4TT0zl1THO1ICaHdrNJmk7/qBPEJ4VpM1rmKv9GM8kNbqZ2VurQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mabdu\\Documents\\code\\btkKursları\\AlgoritmaVeVeriYapılarınaGiriş\\hastableUygulama\\hastableUygulama.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mabdu\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\mabdu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\mabdu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\mabdu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

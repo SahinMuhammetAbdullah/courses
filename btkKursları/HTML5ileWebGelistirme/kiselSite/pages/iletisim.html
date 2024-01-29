@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Muhammet Abdullah Şahin</title>
+    <meta name="description" content="Bilgisayar Mühendisi Muhammet Abdullah Şahin'in Kişisel Web Sitesi">
+    <meta name="keywords"
+        content="muhammet,abdullah,şahin,bilgisayar mügendisi,mühendis,yazılımcı,yazılım uzmanı,backend,frontend">
+    <link rel="stylesheet" href="../css/style.css" />
+    <script src="https://code.iconify.design/iconify-icon/1.0.0/iconify-icon.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+    
+</head>
+
+<body>
+    <header>
+        <div id="navbar-container"></div>
+
+        <script>
+            // fetch ile navbar.html dosyasını yükle
+            fetch('/components/navbar.html')
+                .then(response => response.text())
+                .then(data => {
+                    // HTML içeriğini alınan data ile doldur
+                    document.getElementById('navbar-container').innerHTML = data;
+                })
+                .catch(error => console.error('Navbar yüklenirken hata oluştu:', error));
+        </script>
+        <div class="container" style="text-align: center;">
+
+            <!-- Saat gösterimi için ID eklenmesi -->
+            <div id="clock"></div></div>
+    </header>
+    <div class="wrapper">
+        <div class="button">
+            <div class="icon">
+                <i class="fab fa-facebook-f"></i>
+            </div>
+            <span><a href="https://www.facebook.com/SahinMuhammetAbdullah/">Facebook</a></span>
+        </div>
+        <div class="button">
+            <div class="icon">
+                <i class="fab fa-twitter"></i>
+            </div>
+            <span><a href="https://twitter.com/SahinM_Abdullah">Twitter</a></span>
+        </div>
+        <div class="button">
+            <div class="icon">
+                <i class="fab fa-instagram"></i>
+            </div>
+            <span><a href="https://www.instagram.com/m.abdullahsahin/">Instagram</a></span>
+        </div>
+        <div class="button">
+            <div class="icon">
+                <i class="fab fa-github"></i>
+            </div>
+            <span><a href="https://github.com/SahinMuhammetAbdullah">GitHub</a></span>
+        </div>
+         
+        <div class="button">
+            <div class="icon">
+                <i class="fa fa-envelope"></i>
+            </div>
+            <span><a href="mailto:m.sahinabdullah@gmail.com">Mail Me</a></span>
+        </div>
+        <div class="button">
+            <div class="icon">
+                <i class="fab fa-whatsapp"></i>
+            </div>
+            <span><a href="https://wa.me/905351040690">WhatsApp</a></span>
+        </div>
+        <div class="button">
+            <div class="icon">
+                <i class="fab fa-linkedin"></i>
+            </div>
+            <span><a href="https://www.linkedin.com/in/muhammet-abdullah-%C5%9Fahin-631630230/">LinkedIn</a></span>
+        </div>
+    </div>
+</body>
+
+</html>

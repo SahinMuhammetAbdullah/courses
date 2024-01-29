@@ -1,0 +1,14 @@
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\sortedDictionaryTKTV\obj\Debug\net7.0\sortedDictionaryTKTV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\sortedDictionaryTKTV\obj\Debug\net7.0\sortedDictionaryTKTV.AssemblyInfoInputs.cache
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\sortedDictionaryTKTV\obj\Debug\net7.0\sortedDictionaryTKTV.AssemblyInfo.cs
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\sortedDictionaryTKTV\obj\Debug\net7.0\sortedDictionaryTKTV.csproj.CoreCompileInputs.cache
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\sortedDictionaryTKTV\bin\Debug\net7.0\sortedDictionaryTKTV.exe
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\sortedDictionaryTKTV\bin\Debug\net7.0\sortedDictionaryTKTV.deps.json
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\sortedDictionaryTKTV\bin\Debug\net7.0\sortedDictionaryTKTV.runtimeconfig.json
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\sortedDictionaryTKTV\bin\Debug\net7.0\sortedDictionaryTKTV.dll
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\sortedDictionaryTKTV\bin\Debug\net7.0\sortedDictionaryTKTV.pdb
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\sortedDictionaryTKTV\obj\Debug\net7.0\sortedDictionaryTKTV.dll
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\sortedDictionaryTKTV\obj\Debug\net7.0\refint\sortedDictionaryTKTV.dll
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\sortedDictionaryTKTV\obj\Debug\net7.0\sortedDictionaryTKTV.pdb
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\sortedDictionaryTKTV\obj\Debug\net7.0\sortedDictionaryTKTV.genruntimeconfig.cache
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\sortedDictionaryTKTV\obj\Debug\net7.0\ref\sortedDictionaryTKTV.dll

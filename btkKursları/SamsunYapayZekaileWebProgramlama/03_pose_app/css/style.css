@@ -1,0 +1,30 @@
+body {
+    height: 100%;
+    width: 100%;
+    place-items: center;
+    background: linear-gradient(315deg, #631178 0%, #deb47e 74%);
+}
+
+#myCanvas {
+    right: 15px;
+    bottom:  15px;
+    background: linear-gradient(315deg, #631178 0%, #deb47e 74%);
+}
+
+#result {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    padding: 10px;
+    background-color: #d127fc72;
+    color: #fff;
+}
+
+#button1 {
+    height: 50px;
+    width: 100px;
+}
+#button2 {
+    height: 50px;
+    width: 100px;
+}

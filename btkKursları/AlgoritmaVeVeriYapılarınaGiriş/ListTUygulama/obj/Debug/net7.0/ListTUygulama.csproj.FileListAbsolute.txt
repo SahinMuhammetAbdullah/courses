@@ -1,0 +1,14 @@
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\ListTUygulama\bin\Debug\net7.0\ListTUygulama.exe
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\ListTUygulama\bin\Debug\net7.0\ListTUygulama.deps.json
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\ListTUygulama\bin\Debug\net7.0\ListTUygulama.runtimeconfig.json
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\ListTUygulama\bin\Debug\net7.0\ListTUygulama.dll
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\ListTUygulama\bin\Debug\net7.0\ListTUygulama.pdb
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\ListTUygulama\obj\Debug\net7.0\ListTUygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\ListTUygulama\obj\Debug\net7.0\ListTUygulama.AssemblyInfoInputs.cache
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\ListTUygulama\obj\Debug\net7.0\ListTUygulama.AssemblyInfo.cs
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\ListTUygulama\obj\Debug\net7.0\ListTUygulama.csproj.CoreCompileInputs.cache
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\ListTUygulama\obj\Debug\net7.0\ListTUygulama.dll
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\ListTUygulama\obj\Debug\net7.0\refint\ListTUygulama.dll
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\ListTUygulama\obj\Debug\net7.0\ListTUygulama.pdb
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\ListTUygulama\obj\Debug\net7.0\ListTUygulama.genruntimeconfig.cache
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\ListTUygulama\obj\Debug\net7.0\ref\ListTUygulama.dll

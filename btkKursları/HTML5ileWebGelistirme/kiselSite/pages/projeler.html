@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Muhammet Abdullah Şahin</title>
+    <meta name="description" content="Bilgisayar Mühendisi Muhammet Abdullah Şahin'in Kişisel Web Sitesi">
+    <meta name="keywords" content="muhammet,abdullah,şahin,bilgisayar mügendisi,mühendis,yazılımcı,yazılım uzmanı,backend,frontend">
+    <link rel="stylesheet" href="../css/style.css" />
+
+</head>
+<body>
+  
+    <header>
+        <div id="navbar-container"></div>
+
+        <script>
+            // fetch ile navbar.html dosyasını yükle
+            fetch('/components/navbar.html')
+                .then(response => response.text())
+                .then(data => {
+                    // HTML içeriğini alınan data ile doldur
+                    document.getElementById('navbar-container').innerHTML = data;
+                })
+                .catch(error => console.error('Navbar yüklenirken hata oluştu:', error));
+        </script>
+    </header>
+</body>
+</html>

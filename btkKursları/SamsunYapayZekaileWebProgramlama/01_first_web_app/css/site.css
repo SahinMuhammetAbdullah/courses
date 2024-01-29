@@ -1,0 +1,30 @@
+#label-container
+{
+    color: rgb(0, 8, 255);
+    font-size: 2em;
+}
+
+#label-container div
+{
+    border-radius: 15px;
+    background-color: #f9ff88;
+    border-bottom: 2px solid #ccc;
+    padding: 5px;
+    margin: 5px;
+}
+
+#label-container div:hover
+{
+    border-radius: 15px;
+    background-color: #e8f900;
+    cursor: pointer;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+canvas
+{
+    border: 5px solid #1653ee;
+    box-shadow: 0 4px 8px rgb(0, 0, 1);
+    border-radius: 15px;
+}

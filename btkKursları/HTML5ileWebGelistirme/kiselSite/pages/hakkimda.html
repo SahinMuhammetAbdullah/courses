@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Muhammet Abdullah Şahin</title>
+    <meta name="description" content="Bilgisayar Mühendisi Muhammet Abdullah Şahin'in Kişisel Web Sitesi">
+    <meta name="keywords"
+        content="muhammet,abdullah,şahin,bilgisayar mügendisi,mühendis,yazılımcı,yazılım uzmanı,backend,frontend">
+    <link rel="stylesheet" href="../css/style.css" />
+
+</head>
+
+<body>
+
+    <header>
+        <div id="navbar-container"></div>
+
+        <script>
+            // fetch ile navbar.html dosyasını yükle
+            fetch('/components/navbar.html')
+                .then(response => response.text())
+                .then(data => {
+                    // HTML içeriğini alınan data ile doldur
+                    document.getElementById('navbar-container').innerHTML = data;
+                })
+                .catch(error => console.error('Navbar yüklenirken hata oluştu:', error));
+        </script>
+    </header>
+    <center>
+        <hr>
+        <p>2003 yılında Tokat'ın bir ilçesi olan Zile'de dünyaya geldim. İlköğretim ve ortaöğretim eğitimlerimi bu ilçede tamamladım.</p>
+        <p>
+            Ortaöğretim yıllarında okumuş olduğum lisede arkadaşlarım ile birlikte kurdmuş olduğum bilişim atölyesinde görev aldım. Burada yazılıma ve bilgisayar bilimlerine merak saldım.
+        </p>
+        <p>
+            Şuanda almakta olduğum Bilgisayar Mühendisliği lisans eğitimi o yıllarda içerisinde bulunduğum, projeler ve görevler aldığım atölyenin katkısı çoktur.
+        </p>
+        <p>
+            Bunlarla beraber muhterem babamın sahip olduğu kitap kırtasiye üzerine ticaret yaptığı işletmede gençlik
+            yaşlarımdan itibaren çalışmiş ve iş dünyasına genç yaşlarda başlamış tecrübeli bir birey olarak yetiştim.
+        </p>
+
+    </center>
+</body>
+
+</html>

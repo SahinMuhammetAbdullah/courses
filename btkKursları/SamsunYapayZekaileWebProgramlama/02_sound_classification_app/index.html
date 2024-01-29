@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+        crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="css/site.css">
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+        google.charts.load('current', { 'packages': ['corechart'] });
+        google.charts.setOnLoadCallback(drawChart);
+    </script>
+    <title>Ses Sınıflandırılma Uygulaması</title>
+    <style>
+        body {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .container {
+            text-align: center;
+        }
+
+        .input-box {
+            margin-bottom: 10px;
+        }
+
+        input {
+            padding: 10px;
+        }
+
+        button {
+            padding: 10px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="input-box">
+            <input class="form-control rounded" type="text" id="inputField" placeholder="Adınızı girin"
+                onkeyup="checkEnter(event)">
+        </div>
+        <button class="btn btn-outline-primary" onclick="merhaba()">Gönder</button>
+        <button class="btn btn btn-outline-success" onclick="drawGraph()">Çiz</button>
+        <button class="btn btn btn-outline-danger" onclick="Clear()">Sayfayı temizle</button>
+        <div class="output-box" id="outputBox"></div>
+        <div id="piechart" style="width: 900px; height: 500px;"></div>
+    </div>
+
+
+    <script>
+
+        function Clear(){
+            document.getElementById("piechart").innerHTML = "";
+            document.getElementById("outputBox").innerHTML = "";
+        }
+
+
+
+        function merhaba() {
+            var inputVal = document.getElementById("inputField").value;
+            var outputBox = document.getElementById("outputBox");
+            outputBox.innerHTML = "<p>Merhaba " + inputVal + "</p>";
+            arkapilan(inputVal);
+        }
+
+        function arkapilan(image) {
+            let imageUrl = `/images/${image}.jpg`;
+            document.body.style.backgroundImage = `url(${imageUrl})`
+        }
+
+        function checkEnter(event) {
+            if (event.keyCode === 13) { // Enter tuşunun keycode'u 13'dir
+                merhaba();
+            }
+        }
+
+        function drawGraph() {
+            const result = [
+                { name: "alifiru", probability: 0.1 },
+                { name: "barismanco", probability: 0.2 },
+                { name: "cemkaraca", probability: 0.1 },
+                { name: "erkinkoray", probability: 0.2 },
+                { name: "muslum", probability: 0.1 },
+                { name: "pera", probability: 0.3 }
+            ]
+            var sanatcıArr = [['sanatcı', 'olasılık']];
+            
+            for (var i = 0; i < result.length; i++){
+                sanatcıArr.push([result[i].name,result[i].probability]);
+            }
+            var data = google.visualization.arrayToDataTable(sanatcıArr);
+            var options = {
+                title: 'My Daily Activities'
+            };
+
+            var chart = new google.visualization.PieChart(document.getElementById('piechart'));
+
+            chart.draw(data, options);
+        }
+    </script>
+
+</body>
+
+</html>

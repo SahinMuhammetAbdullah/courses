@@ -1,0 +1,14 @@
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\degerTipStruct\bin\Debug\net7.0\degerTipStruct.exe
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\degerTipStruct\bin\Debug\net7.0\degerTipStruct.deps.json
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\degerTipStruct\bin\Debug\net7.0\degerTipStruct.runtimeconfig.json
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\degerTipStruct\bin\Debug\net7.0\degerTipStruct.dll
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\degerTipStruct\bin\Debug\net7.0\degerTipStruct.pdb
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\degerTipStruct\obj\Debug\net7.0\degerTipStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\degerTipStruct\obj\Debug\net7.0\degerTipStruct.AssemblyInfoInputs.cache
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\degerTipStruct\obj\Debug\net7.0\degerTipStruct.AssemblyInfo.cs
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\degerTipStruct\obj\Debug\net7.0\degerTipStruct.csproj.CoreCompileInputs.cache
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\degerTipStruct\obj\Debug\net7.0\degerTipStruct.dll
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\degerTipStruct\obj\Debug\net7.0\refint\degerTipStruct.dll
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\degerTipStruct\obj\Debug\net7.0\degerTipStruct.pdb
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\degerTipStruct\obj\Debug\net7.0\degerTipStruct.genruntimeconfig.cache
+C:\Users\mabdu\Documents\code\btkKursları\AlgoritmaVeVeriYapılarınaGiriş\degerTipStruct\obj\Debug\net7.0\ref\degerTipStruct.dll
